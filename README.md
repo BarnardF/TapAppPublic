@@ -1,5 +1,5 @@
-# MobileApp
-cool app that will eventually get a name
+# TapApp
+This is a university project
 
 # Setup guide
 
