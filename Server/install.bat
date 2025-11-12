@@ -1,0 +1,10 @@
+npm install express
+npm install redis
+npm install firebase-admin
+npm install jsonwebtoken
+npm install cookie-parser
+npm i bcryptjs
+npm i multer
+npm i dotenv
+npm i nodemon
+npm i cors

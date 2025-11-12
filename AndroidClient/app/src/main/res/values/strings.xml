@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">TheTapApp</string>
+    <string-array name="container_types">
+        <item>Select Container Type</item>
+        <item>Bottle</item>
+        <item>Drum</item>
+        <item>Tank</item>
+    </string-array>
+
+    <string-array name="materials">
+        <item>Select Material</item>
+        <item>Plastic</item>
+        <item>Metal</item>
+        <item>Ceramic</item>
+    </string-array>
+
+    <string-array name="sizes">
+        <item>Select Size</item>
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+    </string-array>
+
+    <string-array name="flows">
+        <item>Select Flow Rate</item>
+        <item>Low</item>
+        <item>Medium</item>
+        <item>High</item>
+    </string-array>
+
+    <string-array name="liquid_types">
+        <item>Select Liquid Type</item>
+        <item>Water</item>
+        <item>Oil</item>
+        <item>Wine</item>
+    </string-array>
+
+</resources>

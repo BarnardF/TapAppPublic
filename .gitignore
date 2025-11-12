@@ -1,0 +1,8 @@
+React Client/node_modules/
+Server/node_modules/
+*.vsidx
+/.vs
+/node_modules
+
+
+Server/.env
