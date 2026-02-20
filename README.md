@@ -59,6 +59,46 @@ Some frontend files (React routing, API integration) were a **two‑person effor
 
 ---
 
+## Frontend Screenshots
+
+Below are selected screenshots from **TheTapApp** admin portal, which I co‑developed with a teammate. They demonstrate how the backend routes I built integrate with the React frontend.
+
+### 1. User Management Dashboard
+![user dashboard image](images/image.png)
+- Manage user roles and permissions (SuperAdmin vs Admin vs User).
+- Change roles via dropdown, view registration dates, and delete users.
+- Role permissions are clearly explained for transparency.
+
+### 2. Tap List Dashboard
+![tap list image](images/image-1.png)
+- Displays all taps with images, descriptions, materials, and flow rates.
+- Admins can **edit** or **delete** taps directly from the dashboard.
+- Navigation bar includes quick access to Add Tap, Manage Users, and Logout.
+
+### 3. Tap Detail View
+![tap details image](images/image-2.png)
+- Shows product details for a single tap (e.g., wine box tap).
+- Includes image, container type, material, flow rate, and description.
+- Edit/Delete buttons allow quick management.
+
+### 4. Add Tap Form
+![add tap form image](images/image-3.png)
+- Clean form interface for creating new taps.
+- Fields include title, container type, material, size, flow rate, liquid type, description, and image upload.
+- Validations ensure required fields are completed before submission.
+
+### 5. Edit Tap Interface
+![edit tap image](images/image-4.png)
+- Allows admins to update tap details and replace product images.
+- Includes validation and secure update flow.
+- Cancel/Update buttons for safe editing.
+
+---
+
+These screenshots highlight the **integration between backend APIs and frontend UI**, showing how authentication, CRUD operations, and role‑based access control work in practice.
+
+---
+
 ## Security Features
 - JWT authentication on all admin routes  
 - Role-based access control (Admin vs SuperAdmin)  
