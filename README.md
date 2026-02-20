@@ -116,7 +116,7 @@ REDIS_URL=redis://localhost:6379
 FIREBASE_STORAGE_BUCKET=your_bucket
 SUPER_ADMIN_EMAIL=your_email
 SUPER_ADMIN_PASSWORD=your_password
-
+```
 
 ## Status
 Backend implementation complete.
