@@ -79,7 +79,7 @@ curl -X POST http://localhost:5000/api/admin/register \
 curl -X POST http://localhost:5000/api/admin/login \
   -H "Content-Type: application/json" \
   -d '{"email":"test@example.com","password":"securePass123"}'
-
+```
 ---
 
 ## Notes on Development
