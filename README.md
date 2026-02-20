@@ -120,5 +120,5 @@ SUPER_ADMIN_PASSWORD=your_password
 
 ## Status
 Backend implementation complete.
-Frontend integration (React + Android app) was handled by teammates, with some files co‑developed.
+Frontend integration (React + Android app) was handled with pair teams, with some files co‑developed.
 This repo highlights my backend contributions and partial frontend work.
